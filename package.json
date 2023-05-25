@@ -16,8 +16,10 @@
   "description": "Scrap all settlement from indonesian banks",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "crypto": "^1.0.1",
     "date-format": "^4.0.10",
     "moment": "^2.29.4",
+    "mysql": "^2.18.1",
     "puppeteer": "^20.0.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-adblocker": "^2.13.6",

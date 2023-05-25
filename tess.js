@@ -64,10 +64,10 @@ const insertIntoDb = async (data) => {
 
     // MySQL database connection configuration
     const connection = mysql.createConnection({
-      host: "",
-      user: "",
-      password: "",
-      database: "",
+      host: "103.120.64.81",
+      user: "cdauto",
+      password: "Pr0sesOtomatis1",
+      database: "buana_cs",
     });
     // Connect to the MySQL server
     connection.connect();
